@@ -1,0 +1,40 @@
+CHALLENGERS:
+5 required
+
+3-0: 
+0-3: 
+Advancing: 
+
+
+
+LEGENDS:
+5 required
+
+3-0:
+0-3:
+Advancing:
+
+
+
+CHAMPIONS:
+quarterfinals: 2 required
+semifinals: 1 required
+finals: 1 required
+
+Team 1
+Team 2
+                      Team 1
+                      Team 3
+Team 3
+Team 4
+                                          Team 1
+                                                           Team 1
+                                          Team 5
+Team 5
+Team 6
+                      Team 5
+                      Team 7
+Team 7
+Team 8
+
+X/9, BRONZE COIN

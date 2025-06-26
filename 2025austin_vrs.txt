@@ -1,0 +1,49 @@
+Stage 1: 6/3
+5 required, 6 correct
+
+3-0: HEROIC, COL
+3-1/3-2: TYLOO, B8, LVG, FLY, BetBoom, Wildcard
+0-3: MZP, Fluxo
+
+
+
+Stage 2: 6/7
+5 required, 3 correct
+
+3-0: Falcons, 3DMAX
+3-1/3-2: HEROIC, FaZe, VP, FURIA, MIBR, paiN
+0-3: Legacy, M80
+
+
+
+Stage 3: 6/12
+5 required, 5 correct
+
+3-0: Vitality, Spirit
+3-1/3-2: MOUZ, MongolZ, Aurora, NAVI, G2, Liquid
+0-3: Legacy, Nemiga
+
+
+
+Playoffs: 6/19
+quarterfinals: 2 required, 2 correct
+semifinals: 1 required, 2 correct
+finals: 1 required, 1 correct
+
+Spirit
+MOUZ
+                      Spirit
+                      Vitality
+Vitality
+NAVI
+                                          Vitality
+                                                           Vitality
+                                          Mongolz
+FaZe
+MongolZ
+                      MongolZ
+                      FURIA
+paiN
+FURIA
+
+8/9, GOLD COIN
